@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	width:100%;
+	background:#CEDAC2;
+		}
+#container{ width:770px; height:auto;background-color:#C39; margin-left:17%}
+#solkucuk{ width:190px; height:auto; position:absolute; float:left;}
+#sagbuyuk{width:570px; height:570px; float:right;}
+#logo{width:180px; height:40px; background-color:white; margin-bottom:10px; margin-right:10px;padding:20px 0px 0px 10px; font-family:"Lucida Console", Monaco, monospace; color:#33884F}
+#menu{width:190px; height:200px; background-color:white; margin-bottom:10px;}
+#posts{width:180px; height:190px; background-color:white; color:#33884F; padding: 10px 0px 0px 10px; font-size:14px; }
+#enust{width:560px; height:25px; background-color:white; margin-bottom:10px;  padding:10px 0px 0px 10px; color:#CEDAC2; font-family:Tahoma, Geneva, sans-serif}
+#ıkıncı{width:570px; height:355px; background-color:white; margin-bottom:10px; padding-top:10px;}
+#ucuncu{width:570px; height:365px; background-color:white; margin-bottom:10px;}
+#sonuncu{width:570px; height:25px; background-color:white; margin-bottom:10px;}
+#HOME{ width:160px; height:25px; margin-left:15px; color:#33884F;padding:5px 0px 0px 0px; border-bottom:solid 1px #CEDAC2}
+#ABOUT{ width:160px; height:25px; margin-left:15px; color:#CEDAC2;padding:5px 0px 0px 0px; border-bottom:solid 1px #CEDAC2}
+#OURWORKS{ width:160px; height:25px; margin-left:15px; color:#CEDAC2;padding:5px 0px 0px 0px; border-bottom:solid 1px #CEDAC2}
+#SERVICES{ width:160px; height:25px; margin-left:15px; color:#CEDAC2;padding:5px 0px 0px 0px; border-bottom:solid 1px #CEDAC2}
+#JOURNAL{ width:160px; height:25px; margin-left:15px; color:#CEDAC2;padding:5px 0px 0px 0px; border-bottom:solid 1px #CEDAC2}
+#CONTACTUS{ width:160px; height:25px; margin-left:15px; color:#CEDAC2;padding:5px 0px 0px 0px;}
+#postılk{width:160px; height:54px; background-color:red; margin-bottom:2px}
+#postıkı{width:160px; height:54px; background-color:red; margin-bottom:2px}
+#postuc{width:160px; height:54px; background-color:red;}
+#slıder{ width:550px; height:335px; background-color:black; margin-left:10px;}
